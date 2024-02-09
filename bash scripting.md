@@ -26,7 +26,6 @@ Before we can run the script, we need to make it executable. Change the file's p
 Now, let's execute the script. You can either use any of the following commands:
 
 - `./hello.sh`
--
 - `bash hello.sh`
 
 ![](media/image3.png)

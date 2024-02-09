@@ -32,6 +32,7 @@ Now, let's execute the script. You can either use any of the following commands:
 ![](media/image3.png)
 
 --
+
 **Comments**
 
 Comments in bash scripts start with the `#` symbol. They are ignored by the interpreter and are used to provide explanations or documentation within the script.
@@ -44,6 +45,7 @@ echo "Hello World!"
 ![](media/image.png)
 
 --
+
 **Variables**
 
 Variables in bash scripts store data that can be referenced and manipulated throughout the script.
@@ -55,6 +57,7 @@ echo "Hello $NAME!"
 ![](media/image6.png){
 
 --
+
 **User Input**
 
 You can prompt the user for input using the `read` command.
@@ -69,6 +72,7 @@ echo "Hello, $NAME!"
 ![](media/image9.png)
 
 --
+
 **Conditional Statements (if-else)**
 
 Conditional statements allow you to execute code based on certain conditions.
@@ -89,6 +93,7 @@ fi
 ![](media/image11.png)
 
 --
+
 **Loops (for and while)**
 
 Loops allow you to repeat a block of code multiple times.
@@ -103,6 +108,7 @@ done
 ![](media/image12.png)
 
 --
+
 **While Loop**
 
 ```bash
@@ -119,6 +125,7 @@ done
 
 
 --
+
 **Functions**
 
 Functions allow you to organize code into reusable blocks.
@@ -135,6 +142,7 @@ greet "Haji"
 ![](media/image16.png) 
 
 --
+
 **Command Line Arguments**
 
 You can pass arguments to a bash script from the command line.
